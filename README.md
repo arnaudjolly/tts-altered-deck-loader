@@ -36,6 +36,7 @@ Pour charger le composant tout juste sauvegardé dans n'importe quelle table de 
 - Votre jeu peut lagger un peu, il est en train de faire ses requêtes pour récupérer les images et vous monter le deck
 - Le deck va être chargé devant vous, là où votre pointeur de souris aura été bougé.
 
+Démo (Vidéo):
 [![Démo Utilisation (YouTube)](https://img.youtube.com/vi/6im45_al-Tw/maxresdefault.jpg)](https://www.youtube.com/watch?v=6im45_al-Tw)
 
 #### Défaut du composant
