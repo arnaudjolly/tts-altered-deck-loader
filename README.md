@@ -21,6 +21,8 @@ Pour l'exemple, je prends un jeton de poker:
 
 Voilà, tout est prêt, vous pourrez donc le charger dans n'importe quelle table de jeu.
 
+![Image du poker chip](deck-loader.png)
+
 #### Chargement du composant sur une table
 
 Pour charger le composant tout juste sauvegardé dans n'importe quelle table de jeu:
@@ -33,6 +35,8 @@ Pour charger le composant tout juste sauvegardé dans n'importe quelle table de 
 - Cliquer sur "Charger le deck" et bouger votre curseur assez vite vers une zone non utilisée de la table de jeu
 - Votre jeu peut lagger un peu, il est en train de faire ses requêtes pour récupérer les images et vous monter le deck
 - Le deck va être chargé devant vous, là où votre pointeur de souris aura été bougé.
+
+[![Démo Utilisation (YouTube)](https://img.youtube.com/vi/6im45_al-Tw/maxresdefault.jpg)](https://www.youtube.com/watch?v=6im45_al-Tw)
 
 #### Défaut du composant
 J'ai fait ça à l'arrache, les vrais développeurs pourront modifier et fixer ce truc.
